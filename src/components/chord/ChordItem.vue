@@ -15,7 +15,6 @@
           <q-icon :style="{color: colorGenerated[index]}" class="rotate-90" name="arrow_right_alt"/>
         </div>
         <show-chord :chord="el.name + ' / ' + el.french"  :color="colorGenerated[index]"/>
-<!--        <vc-chord-diagram :color="colorGenerated[index]" :position="formatChord(el.name).startAt !== 0 " :title="el.name" width="50" height="50" :setup="formatChord(el.name)" />-->
       </div>
     </div>
   </div>

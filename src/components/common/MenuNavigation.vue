@@ -15,16 +15,6 @@
         to="/chords"
         exact
       />
-<!--      <q-route-tab-->
-<!--        icon="visibility"-->
-<!--        to="/tab-identificator"-->
-<!--        exact-->
-<!--      />-->
-<!--      <q-route-tab-->
-<!--        icon="people"-->
-<!--        to="/tuner"-->
-<!--        exact-->
-<!--      />-->
     </q-tabs>
   </q-footer>
 </template>
