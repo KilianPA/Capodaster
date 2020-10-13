@@ -1,0 +1,712 @@
+[
+  {
+    "name": "C",
+    "strings": [
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "Cm",
+    "capo": 3,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 0
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "C#",
+    "capo": 4,
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 3,
+        "finger": 2
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "C#m",
+    "capo": 4,
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "D",
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 2,
+        "finger": 4
+      }
+    ]
+  },
+  {
+    "name": "Dm",
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "Eb",
+    "capo": 6,
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 3,
+        "finger": 2
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "Ebm",
+    "capo": 6,
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 1,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "E",
+    "strings": [
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 2,
+        "finger": 3
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "Em",
+    "strings": [
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 2,
+        "finger": 3
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "F",
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "Fm",
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "F#",
+    "capo": 1,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "F#m",
+    "capo": 1,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "G",
+    "strings": [
+      {
+        "fret": 3,
+        "finger": 2
+      },
+      {
+        "fret": 2,
+        "finger": 1
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      }
+    ]
+  },
+  {
+    "name": "Gm",
+    "capo": 3,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "Ab",
+    "capo": 4,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "Abm",
+    "capo": 4,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "A",
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 2,
+        "finger": 3
+      },
+      {
+        "fret": 2,
+        "finger": 4
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "Am",
+    "strings": [
+      {
+        "fret": 0,
+        "finger": "x"
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      },
+      {
+        "fret": 2,
+        "finger": 2
+      },
+      {
+        "fret": 2,
+        "finger": 3
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 0,
+        "finger": 0
+      }
+    ]
+  },
+  {
+    "name": "Bb",
+    "capo": 6,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "Bbm",
+    "capo": 6,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "B",
+    "capo": 7,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 2,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  },
+  {
+    "name": "Bm",
+    "capo": 7,
+    "strings": [
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 3,
+        "finger": 3
+      },
+      {
+        "fret": 3,
+        "finger": 4
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      },
+      {
+        "fret": 1,
+        "finger": 1
+      }
+    ]
+  }
+]

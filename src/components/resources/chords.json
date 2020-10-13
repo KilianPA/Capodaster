@@ -1,0 +1,50 @@
+[
+  {
+    "name": "C",
+    "crossed": false
+  },
+  {
+    "name": "C#",
+    "crossed": true
+  },
+  {
+    "name": "D",
+    "crossed": false
+  },
+  {
+    "name": "Eb",
+    "crossed": true
+  },
+  {
+    "name": "E",
+    "crossed": false
+  },
+  {
+    "name": "F",
+    "crossed": true
+  },
+  {
+    "name": "F#",
+    "crossed": true
+  },
+  {
+    "name": "G",
+    "crossed": false
+  },
+  {
+    "name": "Ab",
+    "crossed": true
+  },
+  {
+    "name": "A",
+    "crossed": false
+  },
+  {
+    "name": "Bb",
+    "crossed": true
+  },
+  {
+    "name": "B",
+    "crossed": false
+  }
+]

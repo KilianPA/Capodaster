@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cm",
+    "french": "Dom",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "C#m",
+    "french": "Do#m",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "Dm",
+    "french": "Rém",
+    "crossed": false,
+    "minor": true
+  },
+  {
+    "name": "Ebm",
+    "french": "Mibm",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "Em",
+    "french": "Mim",
+    "crossed": false,
+    "minor": true
+  },
+  {
+    "name": "Fm",
+    "french": "Fam",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "F#m",
+    "french": "Fa#m",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "Gm",
+    "french": "Solm",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "Abm",
+    "french": "Labm",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "Am",
+    "french": "Lam",
+    "crossed": false,
+    "minor": true
+  },
+  {
+    "name": "Bbm",
+    "french": "Sibm",
+    "crossed": true,
+    "minor": true
+  },
+  {
+    "name": "Bm",
+    "french": "Sim",
+    "crossed": true,
+    "minor": true
+  }
+]

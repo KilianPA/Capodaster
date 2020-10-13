@@ -1,0 +1,74 @@
+[
+  {
+    "name": "C",
+    "french": "Do",
+    "crossed": false,
+    "minor": false
+  },
+  {
+    "name": "C#",
+    "french": "Do#",
+    "crossed": true,
+    "minor": false
+  },
+  {
+    "name": "D",
+    "french": "Ré",
+    "crossed": false,
+    "minor": false
+  },
+  {
+    "name": "Eb",
+    "french": "Mib",
+    "crossed": true,
+    "minor": false
+  },
+  {
+    "name": "E",
+    "french": "Mi",
+    "crossed": false,
+    "minor": false
+  },
+  {
+    "name": "F",
+    "french": "Fa",
+    "crossed": true,
+    "minor": false
+  },
+  {
+    "name": "F#",
+    "french": "Fa#",
+    "crossed": true,
+    "minor": false
+  },
+  {
+    "name": "G",
+    "french": "Sol",
+    "crossed": false,
+    "minor": false
+  },
+  {
+    "name": "Ab",
+    "french": "Lab",
+    "crossed": true,
+    "minor": false
+  },
+  {
+    "name": "A",
+    "french": "La",
+    "crossed": false,
+    "minor": false
+  },
+  {
+    "name": "Bb",
+    "french": "Sib",
+    "crossed": true,
+    "minor": false
+  },
+  {
+    "name": "B",
+    "french": "Si",
+    "crossed": true,
+    "minor": false
+  }
+]
