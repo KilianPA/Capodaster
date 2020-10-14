@@ -13,16 +13,6 @@ const routes = [
         path: '/chords',
         name: 'chords',
         component: () => import('components/ChordsFormatter.vue')
-      },
-      {
-        path: '/tab-identificator',
-        name: 'tab-identificator',
-        component: () => import('components/TabIdentificator.vue')
-      },
-      {
-        path: '/tuner',
-        name: 'tuner',
-        component: () => import('components/Tuner.vue')
       }
     ]
   },
