@@ -1,12 +1,13 @@
 {
   "name": "guitar-app",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
+  "description": "Un outil pour guitariste",
   "private": true,
   "dependencies": {
     "@capacitor/android": "2.4.2",
     "@capacitor/cli": "^2.0.0",
-    "@capacitor/core": "^2.0.0"
+    "@capacitor/core": "^2.0.0",
+    "cordova-plugin-audioinput": "^1.0.2"
   },
   "author": ""
 }

@@ -1,5 +1,5 @@
 /dist
-/src/components/common/wave-ressource/*
+/src/components/tuner/ressource
 /src-bex/www
 /src-capacitor
 /src-cordova

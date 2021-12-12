@@ -111,6 +111,11 @@ compare-versions@^3.1.0:
   resolved "https://registry.yarnpkg.com/compare-versions/-/compare-versions-3.6.0.tgz#1a5689913685e5a87637b8d3ffca75514ec41d62"
   integrity sha512-W6Af2Iw1z4CB7q4uU4hv646dW9GQuBM+YpC0UvUCWSD8w90SJjp+ujJuXaEMtAXBtSqGfMPuFOVn4/+FlaqfBA==
 
+cordova-plugin-audioinput@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/cordova-plugin-audioinput/-/cordova-plugin-audioinput-1.0.2.tgz#9c40afbca24919c79668ba28aefabe8135048772"
+  integrity sha512-uDY41lWDGyTFOEW1O5VPkkspkVIGDI3ZXZMR48kb7IS7FIOMA+xiLQ0s7wb3a+LZz/1nVdBkco2aq4JSSyQ+rA==
+
 escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"

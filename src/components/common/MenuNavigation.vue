@@ -15,6 +15,11 @@
         to="/chords"
         exact
       />
+<!--      <q-route-tab-->
+<!--        icon="people"-->
+<!--        to="/tuner"-->
+<!--        exact-->
+<!--      />-->
     </q-tabs>
   </q-footer>
 </template>

@@ -4123,6 +4123,11 @@ copy-webpack-plugin@6.0.3:
     serialize-javascript "^4.0.0"
     webpack-sources "^1.4.3"
 
+cordova-plugin-audioinput@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/cordova-plugin-audioinput/-/cordova-plugin-audioinput-1.0.2.tgz#9c40afbca24919c79668ba28aefabe8135048772"
+  integrity sha512-uDY41lWDGyTFOEW1O5VPkkspkVIGDI3ZXZMR48kb7IS7FIOMA+xiLQ0s7wb3a+LZz/1nVdBkco2aq4JSSyQ+rA==
+
 core-js-compat@^3.6.2, core-js-compat@^3.6.5:
   version "3.6.5"
   resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.6.5.tgz#2a51d9a4e25dfd6e690251aa81f99e3c05481f1c"
@@ -5748,6 +5753,11 @@ fd-slicer@~1.1.0:
   integrity sha1-JcfInLH5B3+IkbvmHY85Dq4lbx4=
   dependencies:
     pend "~1.2.0"
+
+fft@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/fft/-/fft-0.2.1.tgz#1044554fdba1a0b96c4843d5dea8525cab3621aa"
+  integrity sha1-EERVT9uhoLlsSEPV3qhSXKs2Iao=
 
 figgy-pudding@^3.5.1:
   version "3.5.2"
@@ -12318,6 +12328,11 @@ text-table@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
+
+three@^0.121.1:
+  version "0.121.1"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.121.1.tgz#fda39cf4701d02be9c3be5c27ccea24b7a1ea59b"
+  integrity sha512-+rYhNpW5W1aBdLkPQDld/GA4Sj/uOKJJKVpCAZUbpk/HZEiYRUlPt8+s+9nmxRglWmRHdBa3ERvUwqg4nmoA5w==
 
 throat@^5.0.0:
   version "5.0.0"

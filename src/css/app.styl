@@ -11,27 +11,29 @@ body {
   letter-spacing: -1px
 }
 
-  .container-title-component {
+.container-title-component {
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.q-card-bg {
+  position: relative;
+  background: #494977;
+  border-radius: 15px;
+  color: white !important;
+
+  svg {
+    vertical-align: top;
+  }
+
+  .q-card-content {
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
+    background: #5a5a90;
   }
-
-  .q-card-bg {
-    position: relative;
-    background: #494977;
-    border-radius: 15px;
-    color: white !important;
-    svg {
-      vertical-align: top;
-    }
-    .q-card-content {
-      padding-top: 15px;
-      padding-left: 15px;
-      padding-right: 15px;
-      background: #5a5a90;
-    }
-  }
+}
 
 
 .border-top {
@@ -43,9 +45,9 @@ body {
   background: #f7f7f7;
 }
 
-  .container-tuner-block {
-    margin-top: 50px;
-  }
+.container-tuner-block {
+  margin-top: 50px;
+}
 
 .text-capo {
   padding: 8px;
@@ -97,9 +99,9 @@ body {
   align-items: flex-end;
 }
 
-  .text-chord-between span {
-    align-self: center;
-  }
+.text-chord-between span {
+  align-self: center;
+}
 
 .container-tuner {
   background: black;
@@ -129,4 +131,31 @@ body {
   position: absolute;
   width: 100%;
   bottom: 48px;
+}
+
+
+.item-interval {
+  display: inline-block;
+  align-self: flex-end;
+}
+
+.margin-auto {
+  margin: auto;
+}
+
+.text-tuner-interval {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.container-cursor {
+  opacity: 0.9;
+  height: 70px;
+  margin: auto;
+  position: absolute;
+  transition:all 1s ease;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
